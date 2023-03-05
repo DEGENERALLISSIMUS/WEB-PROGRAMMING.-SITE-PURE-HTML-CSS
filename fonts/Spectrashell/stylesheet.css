@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Spectrashell';
+    src: url('Spectrashell-Regular.eot');
+    src: local('Spectrashell-Regular'),
+        url('Spectrashell-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Spectrashell-Regular.woff2') format('woff2'),
+        url('Spectrashell-Regular.woff') format('woff'),
+        url('Spectrashell-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
