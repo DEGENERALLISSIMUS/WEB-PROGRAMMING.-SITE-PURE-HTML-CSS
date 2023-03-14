@@ -186,6 +186,7 @@ h3 {
   font-size: 50px;
   position: absolute;
   bottom: 5%;
+  color: bisque;
 }
 .main-header-img img {
   width: 100%;
@@ -640,6 +641,7 @@ footer {
   }
   .bar-filter a p {
     margin-right: 10px;
+    font-size: 30px;
   }
   .navigation-panel {
     max-width: 576px;
